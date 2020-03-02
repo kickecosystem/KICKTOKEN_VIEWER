@@ -1,0 +1,23 @@
+### Go template
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+kicktoken_viewer
+
+# Test binary, build with `go test -c`
+*.test
+
+# IDE
+.vscode
+*.iml
+.idea/
+
+# cache
+*.sqlite
+*.sqlite-journal
+
+# result
+*.csv
